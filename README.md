@@ -1,4 +1,5 @@
-## Hello World! Meu nome é Allan Fellipe, sou estudante de Front-end, pretendo um dia ser Dev Full-Stack
+## Hello World!
+Sou Allan Fellipe, estudante de Front-end.
 
 <!--
 **dev-allanf/dev-allanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
